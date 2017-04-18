@@ -1,6 +1,6 @@
-[Intel® DPDK vSwitch][dpdk-ovs-github] is a fork of the open source Open vSwitch multilayer virtual switch found at [openvswitch.org].
+[Intel® DPDK vSwitch][dpdk-ovs-github] is a deprecated fork of the open source Open vSwitch multilayer virtual switch found at [openvswitch.org]. If you want to use a dpdk-accelerated version of Open vSwitch, please use the DPDK flavour of OVS which can be found at [openvswitch.org]. 
 
-For more information on the project, check out the [Overview][intro] document or visit the [Packet Processing portal][01org-packet] on [01.org][01org-packet]
+
 
 ______
 
